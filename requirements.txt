@@ -1,4 +1,3 @@
-string
 csv
 matplotlib
 numpy
