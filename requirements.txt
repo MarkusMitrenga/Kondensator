@@ -1,5 +1,3 @@
-sys
-os
 string
 csv
 matplotlib
